@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
 
-![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
-
-![Jaekim's GitHub Repo](https://github-readme-Repo.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
+![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=vue)
 
 
 사진
