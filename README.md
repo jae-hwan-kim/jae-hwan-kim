@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div class = "align = center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=100%&section=header&text=capsule%20render&fontSize=70)
 
 
@@ -53,3 +54,5 @@ Here are some ideas to get you started:
     협업툴 - 컨플루언스, 지라, 노션, 깃허브, 소스트리
 
 6. 기타 - github stats,... 등
+
+</div>
