@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00979D?style=flat&logo=C&logoColor=white"/>
+
