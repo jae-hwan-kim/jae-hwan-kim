@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
 
-
+![Jaekim's GitHub Repo](https://github-readme-Repo.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
 
 
 사진
