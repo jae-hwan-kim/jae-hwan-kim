@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 3. 경력 - ~초졸, ~중졸, ~고졸, ~대학생, ~인턴, ~pnp
 
+
 4. 자신의 sns - gmail, instagram, facebook, linkedin, twitter, blog  ... 등
 
 5. 기술 스택
