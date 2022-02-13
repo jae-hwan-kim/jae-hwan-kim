@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-0052CC?style=flat&logo=Confluence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
 
 사진
@@ -46,7 +47,3 @@ Here are some ideas to get you started:
     협업툴 - 컨플루언스, 지라, 노션, 깃허브, 소스트리
 
 6. 기타 - github stats,... 등
-
-
-
-출처: https://heo-seongil.tistory.com/131 [Since. 24살]
