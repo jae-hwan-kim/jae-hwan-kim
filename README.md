@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div class = "align = center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=100%&section=header&text=capsule%20render&fontSize=70)
-
+</div>
 
 [![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
 
@@ -54,5 +54,3 @@ Here are some ideas to get you started:
     협업툴 - 컨플루언스, 지라, 노션, 깃허브, 소스트리
 
 6. 기타 - github stats,... 등
-
-</div>
