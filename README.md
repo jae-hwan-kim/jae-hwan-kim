@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
-![header](https://capsule-render.vercel.app/api?&text=Jaekim 🏊‍♂️&fontSize=50&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?text=aekim%🏊‍!&fontColor=eeeeee)
+
 type=transparent&height=200&section=header
 [![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
 
