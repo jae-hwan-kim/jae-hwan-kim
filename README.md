@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim)](https://github.com/jae-hwan-kim/badge42)
-
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 
 
 
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
 
-![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=vue)
+![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
 
 
 사진
@@ -40,7 +38,6 @@ Here are some ideas to get you started:
 2. 자기소개 - Hi there! I'm Seongil. ~
 
 3. 경력 - ~초졸, ~중졸, ~고졸, ~대학생, ~인턴, ~pnp
-
 
 4. 자신의 sns - gmail, instagram, facebook, linkedin, twitter, blog  ... 등
 
@@ -52,4 +49,4 @@ Here are some ideas to get you started:
     
     협업툴 - 컨플루언스, 지라, 노션, 깃허브, 소스트리
 
-6. 기타 - github stats,... 
+6. 기타 - github stats,... 등
