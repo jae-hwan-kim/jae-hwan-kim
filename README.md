@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&section=header&text=Jaekim 🏊‍&fontColor=666666)
+![header](https://capsule-render.vercel.app/api?type=transperant&color=auto&height=300&section=header&text=Jaekim 🏊‍♂️%20render&fontSize=90)
 
-type=transparent&height=200&section=header
 [![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
