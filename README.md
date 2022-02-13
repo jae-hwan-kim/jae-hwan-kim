@@ -49,4 +49,4 @@ Here are some ideas to get you started:
     
     협업툴 - 컨플루언스, 지라, 노션, 깃허브, 소스트리
 
-6. 기타 - github stats,... 등
+6. 기타 - github stats,... 
