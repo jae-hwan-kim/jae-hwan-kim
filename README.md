@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
-https://github-readme-stats.vercel.app/api?username=jaekim&show_icons=true&theme=radical
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 
 
 
