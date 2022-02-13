@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Jaekim 🏊‍&fontColor=666666)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&section=header&text=Jaekim 🏊‍&fontColor=666666)
 
 type=transparent&height=200&section=header
 [![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
