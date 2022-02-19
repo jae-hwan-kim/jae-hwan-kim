@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 
 
 
-<div align = "center">
+<div align = "center"; width: 100%>
     <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2> 
 </div>
 
-<div>
-    <div align = "left"; float:left>    
-        <h3>Skills</h3>
-        <h3>Tools</h3>
+<div width: 100%>
+    <div width: 50%>    
+        <p>Skills</p>
+    </div>
+    <div width: 50%>    
+        <p>Tools</p>
     </div>
 </div>
 
