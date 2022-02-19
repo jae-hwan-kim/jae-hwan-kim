@@ -13,45 +13,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align = "center">
+    
+# 🤽‍♂️ Jae Kim 🏊‍♂️ 
 
-
-
-
-<div style = "text-align : center"; "width: 100%">
-    <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2> 
-</div>
-
-<div style = "width: 100%">
-    <div style = "text-align : center"; "width: 50%"; "float:left">    
-        <p float: left>Skills</p>
-    </div>
-    <div style = "text-align : center"; "width: 50%">    
-        <p>Tools</p>
-    </div>
-</div>
-
-
-<a href = "링크"> <img src = "배지 코드" </a>
-width, align
-
-[![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
-
+## 🌟 Stack 🌟
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 
-
+## 🌟 Tools 🌟
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-0052CC?style=flat&logo=Confluence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&logo=Undertale&logoColor=white"/>
+</div>
+
+
+<br>
+
+[![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
 
 ![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-hwan-kim&layout=compact)](https://github.com/jae-hwan-kim/github-readme-stats)
 
 사진
 
