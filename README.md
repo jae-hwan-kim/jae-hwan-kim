@@ -21,10 +21,8 @@ Here are some ideas to get you started:
     <div>
         <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2>
     </div>
-    <div width = "50%"; align = "center">
+    <div align = "center">
         <h3>Tools</h3>
-    </div>
-    <div width = "50%"; align = "center">
         <h3>Skills</h3>
     </div>
 </div>
