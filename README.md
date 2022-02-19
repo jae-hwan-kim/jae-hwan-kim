@@ -21,12 +21,15 @@ Here are some ideas to get you started:
     <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2> 
 </div>
 
-<div align = "left">    
-    <h3>Skills</h3>
-</div>    
-<div align = "right">
-    <h3>Tools</h3>
-</div> 
+<div>
+    <div align = "left">    
+        <h3>Skills</h3>
+    </div>
+
+    <div align = "right">
+        <h3>Tools</h3>
+    </div> 
+</div>
 
 
 <a href = "링크"> <img src = "배지 코드" </a>
