@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align = "center">
-    <p>
-        <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2>
-    <\p>
-    --- 
+    <p> <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2>
     
     <div align = "center">
         <h3>Tools</h3>
