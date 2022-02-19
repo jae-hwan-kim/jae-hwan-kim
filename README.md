@@ -17,10 +17,7 @@ Here are some ideas to get you started:
     
 # Jae Kim 🏊‍♂️ 
 
-    <div>
-[![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
-    ![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
-    </div>
+ 
 ## 🐯 Stack 🐯 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-5C2D91?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -40,7 +37,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&logo=Undertale&logoColor=white"/>
+
+<br>
+<br>
+<br>
+
+![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
+[![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
+
 </div>
+
 
 ## 📧 Contact
 
