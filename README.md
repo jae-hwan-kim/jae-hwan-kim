@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div width: 100%>
     <div width: 50%>    
-        <p>Skills</p>
+        <p float: left>Skills</p>
     </div>
     <div width: 50%>    
         <p>Tools</p>
