@@ -12,13 +12,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+사진
+2. 자기소개 - Hi there! I'm Seongil. ~
+3. 경력 - ~초졸, ~중졸, ~고졸, ~대학생, ~인턴, ~pnp
+4. 자신의 sns - gmail, instagram, facebook, linkedin, twitter, blog  ... 등
+5. 기술 스택
+6. 기타 - github stats,... 등
 -->
 <div align = "center">
     
 # Jae Kim 🏊‍♂️ 
 
  
-## 🐯 Stack 🐯 
+## 🐯 Tech Stack 🐯 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -27,6 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-5C2D91?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 
 ## 🐯 Tools 🐯
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
@@ -53,25 +60,4 @@ Here are some ideas to get you started:
 
 ## 📧 Contact
 
-
-<br>
-
-
-사진
-
-2. 자기소개 - Hi there! I'm Seongil. ~
-
-3. 경력 - ~초졸, ~중졸, ~고졸, ~대학생, ~인턴, ~pnp
-
-4. 자신의 sns - gmail, instagram, facebook, linkedin, twitter, blog  ... 등
-
-5. 기술 스택
-
-    언어 - C, C++, Python ~
-
-    platform - Flutter, git, docker ~ 
-    
-    협업툴 - 컨플루언스, 지라, 노션, 깃허브, 소스트리
-
-6. 기타 - github stats,... 등
 
