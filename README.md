@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
     <div>
-        ###🤽‍♂️ Jae Kim 🏊‍♂️ <br>
+        <h3>🤽‍♂️ Jae Kim 🏊‍♂️</h3>
     </div>
     <div>
     Tools
