@@ -22,13 +22,10 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-    <div align = "left">    
+    <div align = "left"; float:left>    
         <h3>Skills</h3>
-    </div>
-
-    <div align = "right">
         <h3>Tools</h3>
-    </div> 
+    </div>
 </div>
 
 
