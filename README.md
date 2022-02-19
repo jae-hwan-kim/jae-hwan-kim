@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align = "center">
     
-# 🤽‍♂️ Jae Kim 🏊‍♂️ 
+# Jae Kim 🏊‍♂️ 
 
 ## 🐯 Stack 🐯 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
