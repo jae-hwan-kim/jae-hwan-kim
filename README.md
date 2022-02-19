@@ -17,6 +17,10 @@ Here are some ideas to get you started:
     
 # Jae Kim 🏊‍♂️ 
 
+    <div>
+[![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
+    ![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
+    </div>
 ## 🐯 Stack 🐯 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-5C2D91?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -42,10 +46,6 @@ Here are some ideas to get you started:
 
 
 <br>
-
-[![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
-
-![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-hwan-kim&layout=compact)](https://github.com/jae-hwan-kim/github-readme-stats)
 
