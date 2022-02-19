@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 
 <div align = "center">
-    <div>
+    
         <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2>
-        ---
-        <p></p>
-    </div>
+    --- 
+    
     <div align = "center">
         <h3>Tools</h3>
         <h3>Skills</h3>
