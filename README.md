@@ -14,7 +14,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Jaekim&fontSize=70)
+
+
+
+<div align = "center">
+    <div>
+        ###🤽‍♂️ Jae Kim 🏊‍♂️ <br>
+    </div>
+    <div>
+    Tools
+    Skills
+    </div>
+    
+</div>
+
+<a href = "링크"> <img src = "배지 코드" </a>
+width, align
 
 [![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
 
@@ -24,7 +39,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
-
 
 
 <img src="https://img.shields.io/badge/Confluence-0052CC?style=flat&logo=Confluence&logoColor=white"/>
@@ -53,3 +67,4 @@ Here are some ideas to get you started:
     협업툴 - 컨플루언스, 지라, 노션, 깃허브, 소스트리
 
 6. 기타 - github stats,... 등
+
