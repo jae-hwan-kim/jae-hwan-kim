@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 
  
 ## 🐯 Stack 🐯 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/VScode-5C2D91?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-<br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/VScode-5C2D91?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 ## 🐯 Tools 🐯
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
@@ -44,6 +45,8 @@ Here are some ideas to get you started:
 
 ![Jaekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hwan-kim&theme=vue&show_icons=true)
 [![jaekim's 42 stats](https://badge42.herokuapp.com/api/stats/jaekim?privacyEmail=true)](https://github.com/jae-hwan-kim/badge42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-hwan-kim&layout=compact)](https://github.com/jae-hwan-kim/github-readme-stats)
+
 
 </div>
 
@@ -53,7 +56,6 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-hwan-kim&layout=compact)](https://github.com/jae-hwan-kim/github-readme-stats)
 
 사진
 
