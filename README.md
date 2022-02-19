@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 
 <div align = "center">
     <div>
-        <h3>🤽‍♂️ Jae Kim 🏊‍♂️</h3>
+        <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2>
     </div>
-    <div>
-    Tools
-    Skills
+    <div width = "50%"; align = "center">
+        <h3>Tools</h3>
     </div>
-    
+    <div width = "50%"; align = "center">
+        <h3>Skills</h3>
+    </div>
 </div>
 
 <a href = "링크"> <img src = "배지 코드" </a>
