@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 
-<div align = "center"; width= 100%>
+<div style = "text-align : center"; "width: 100%">
     <h2>🤽‍♂️ Jae Kim 🏊‍♂️</h2> 
 </div>
 
-<div width = 100%>
-    <div width: 50%>    
+<div style = "width: 100%">
+    <div style = "text-align : center"; "width: 50%"; "float:left">    
         <p float: left>Skills</p>
     </div>
-    <div width = 50%>    
+    <div style = "text-align : center"; "width: 50%">    
         <p>Tools</p>
     </div>
 </div>
