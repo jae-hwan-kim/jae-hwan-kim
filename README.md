@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&logo=Undertale&logoColor=white"/>
 </div>
 
+## 📧 Contact
+
 
 <br>
 
