@@ -32,10 +32,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
-## 🐯 FrameWork 🐯 
+## 🐯 FrameWork & ETC 🐯 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-5C2D91?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+
 
 ## 🐯 Tools 🐯
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
